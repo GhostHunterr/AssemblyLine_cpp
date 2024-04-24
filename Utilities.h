@@ -1,10 +1,3 @@
-// Name: Farhan Sarang
-// Seneca Student ID: 172963217
-// Seneca email: fsarang2@myseneca.ca
-// Date of completion: 1 / 12 / 2023
-//
-// I confirm that I am the only author of this file
-//   and the content was created entirely by me.
 #ifndef SDDS_UTILITIES_H
 #define SDDS_UTILITIES_H
 
