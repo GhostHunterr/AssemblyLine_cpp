@@ -37,6 +37,10 @@ The Assembly Line Simulation project is a comprehensive application that simulat
 - **Problem-solving Skills:** Throughout the project, I encountered various challenges and devised effective solutions to ensure smooth order processing and assembly line management.
 - **Deadline Management:** Meeting project deadlines and adhering to submission requirements demonstrate my ability to manage timelines and prioritize tasks effectively.
 
-## Conclusion
+## Setup
 
-The Assembly Line Simulation project exemplifies my expertise in software development and my passion for tackling complex problems.
+Instructions on how to compile and run the Assembly Line Simulation System:
+
+```bash
+g++ *.cpp -std=c++11 -o pos.exe
+./pos.exe ./Stations1.txt ./Stations2.txt ./CustomerOrders.txt ./AssemblyLine.txt
